@@ -19,5 +19,8 @@
 2.tell a function to check spelling 
 3.tell a function to check the missplled  words 
 4.tell the function to show the result 
-5.link dictionary 
-6.passage file 
+5.link dictionary shows the path to the dictionary
+6.passage file shows the path to the incorrect passage.
+
+## Implementation Details
+
